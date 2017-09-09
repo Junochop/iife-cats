@@ -1,1 +1,1 @@
-console.log("cats");
+CatStore.catXHR();
